@@ -1,0 +1,8 @@
+#一旦你擁有一個 requirements.txt 文件，可以使用以下命令來安裝文件中列出的所有依賴項：
+#pip install -r requirements.txt
+google-genai
+python-dotenv
+ipywidgets
+pillow
+gradio
+RPi.GPIO
